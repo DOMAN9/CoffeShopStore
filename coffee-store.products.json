@@ -1,0 +1,40 @@
+[{
+  "_id": {
+    "$oid": "6719486473e86552c2aa4514"
+  },
+  "name": "Kopiko",
+  "price": {
+    "$numberLong": "12"
+  },
+  "description": "instant coffee"
+},
+{
+  "_id": {
+    "$oid": "6719491673e86552c2aa4515"
+  },
+  "name": "Hibiscus Tea",
+  "price": {
+    "$numberLong": "75"
+  },
+  "description": "hibiscus flower tea"
+},
+{
+  "_id": {
+    "$oid": "6719496e73e86552c2aa4516"
+  },
+  "name": "spam mosubi",
+  "price": {
+    "$numberLong": "40"
+  },
+  "description": "Spam, nori, rice, egg"
+},
+{
+  "_id": {
+    "$oid": "671949b873e86552c2aa4517"
+  },
+  "name": "Babel Jest Special",
+  "price": {
+    "$numberLong": "150"
+  },
+  "description": "my headache"
+}]
